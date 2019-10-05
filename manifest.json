@@ -1,6 +1,6 @@
 {
-  "name": "pwa-example",
-  "short_name": "pwa-example",
+  "name": "jokes",
+  "short_name": "jokes",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
